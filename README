@@ -1,0 +1,12 @@
+basic window management using Mjolnir
+I've got three monitors and put everything in the foreground
+so I have two major uses for this:
+
+1. Keyboard shortcut to go to nearby windows
+  I use Ctrl-Shift HJKL, because Ctrl HJKL moves between tmux splits
+2. Keyboard shortcut to maximize window on a screen
+  cmd-alt 123
+
+Probably need to add something along the lines of "use left half of current monitor"
+
+Install instructions: TODO. Forgot what all I did. Install Lua, Mjolnir, and the things listed in init.lua
